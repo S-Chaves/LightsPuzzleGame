@@ -20,3 +20,6 @@ This is my very first Proyect and I've only been coding for 4 months, so if anyo
 - Background music
 - Different color schemes
 - Language support
+
+## Technologies
+This is a pure vanilla HTML, CSS and JavaScript game.
