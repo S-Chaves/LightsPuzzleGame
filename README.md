@@ -1,6 +1,8 @@
 # Welcome to my Lights Puzzle Game
 This is a fun little game where the goal is to turn on all the lights, but clicking on one of them changes the state of the others around it.
 
+You can play it [here](https://s-chaves.github.io/LightsPuzzleGame/).
+
 ## About
 It all started with the idea in my head of a simple game where you have to turn on all the lights. I somewhat new to coding and it sounded like a creative game so I decided to try and do it. Every time I finished with some part of the game more ideas kept coming and that's how I came to this point.
 
